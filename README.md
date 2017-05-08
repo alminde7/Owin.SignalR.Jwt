@@ -1,6 +1,7 @@
 ﻿# JwtSignalRAuthentication Middleware
 
-This is an extension that enables SignalR to make use of Json Web Tokens as authentication.
+This is an extension that enables SignalR to make use of Json Web Tokens as authentication.  
+I am not the author of the code, as most of it is from this [post](https://mikebridge.github.io/articles/identityserver4-signalr/) by Mike Bridge
 
 ## How to configure the thing?
 
